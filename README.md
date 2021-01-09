@@ -16,4 +16,4 @@
     *   Connect with/Follow Gaurav ([LinkedIn](https://www.linkedin.com/in/gcnit)/[Twitter](https://twitter.com/gc_nit)) and Sagar ([LinkedIn](https://www.linkedin.com/in/sagar0907/)/[Twitter](https://twitter.com/SagarJain0907)). 
     *   Preferable: Connect with/Follow each other as well. 
     *   Start being a bit active on Twitter and LinkedIn. Share your progress every week. Doing that will help you in the long term.
-*   Star this repository for easy access.
+*   Star this repository and bookmark this page for easy access.
