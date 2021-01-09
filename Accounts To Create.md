@@ -1,5 +1,5 @@
 Please make sure to create the following accounts right now:
-- [workat.tech](http://workat.tech): For doing courses and assignments
+- [workat.tech](http://workat.tech/login): For doing courses and assignments
 - [Zoom](https://zoom.us/signup): For live classes
 - [Slack](https://sdebootcamp.slack.com/): For communication
 - [GitHub](https://github.com/join): For hosting the code
