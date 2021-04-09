@@ -7,7 +7,7 @@ Please make sure to create the following accounts right now:
 - [Netlify](https://app.netlify.com): For hosting the frontend projects
 - [Heroku](https://id.heroku.com/login): For hosting the fullstack projects
 - [MongoDB](https://account.mongodb.com/account/login): For hosting the database
-- [RazorPay](https://rzp.io/i/XDT0nxvRUU): For integrating payment for e-commerce project
+- [Razorpay](https://rzp.io/i/XDT0nxvRUU): For integrating payment for e-commerce project
 - [LinkedIn](https://www.linkedin.com/login): For posting progress
 - [Twitter](https://twitter.com): For posting progress
 - [HackerRank](https://www.hackerrank.com/auth/login): For SQL Practice
