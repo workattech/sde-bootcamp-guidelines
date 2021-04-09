@@ -1,7 +1,7 @@
 # SDE Bootcamp Guidelines
 *   [Create all the required accounts](https://github.com/workattech/sde-bootcamp-guidelines/blob/main/Accounts%20To%20Create.md)
 *   [Install all the required software](https://github.com/workattech/sde-bootcamp-guidelines/blob/main/Software%20To%20Download.md)
-*   [Start KYC process on RazorPay](https://rzp.io/i/XDT0nxvRUU) 
+*   [Start KYC process on Razorpay](https://rzp.io/i/XDT0nxvRUU) 
 *   Familiarize yourself with:
     *   workat.tech [courses](https://workat.tech/programs/kickstart/dashboard) and [IDE](https://workat.tech/ide)
     *   Zoom Meetings
