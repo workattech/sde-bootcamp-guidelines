@@ -10,4 +10,4 @@ Please make sure to download the following software right now.
 
 Try to complete this ASAP.
 
-Ask on [slack](https://app.slack.com/client/T01JTLKJH9N/C01J1CDL2S1) in case of any issues.
+Ask on slack in case of any issues.
