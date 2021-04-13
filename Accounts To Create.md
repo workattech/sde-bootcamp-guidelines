@@ -15,4 +15,4 @@ Please make sure to create the following accounts right now:
 
 Try to complete this ASAP. Once done, move to the next step of installing the required software.
 
-Ask on [slack](https://app.slack.com/client/T01JTLKJH9N/C01J1CDL2S1) in case of any issues.
+Ask on slack in case of any issues.
